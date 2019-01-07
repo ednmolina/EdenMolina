@@ -4,8 +4,8 @@
 I graduated in 2018 from the Univeristy of California, Los Angeles with a degree in Physics. I have had experience workin with large data sets, image processing, and machine learning. Outside of school I am interested in photography and interesting places to eat food. Currently I am working as a Data Science intern at a small start up called Fulcrum Labs.
 
 # Internships
-## NASA Jet Propulsion Laboratory
-### June 2016 - August 2016
+### NASA Jet Propulsion Laboratory
+#### June 2016 - August 2016
 
 
 # Course Projects
@@ -26,13 +26,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+### Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+#### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
