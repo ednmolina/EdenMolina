@@ -1,16 +1,8 @@
 logo: /assets/img/logo.png
 
 title: Eden M
-description: <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+description: B.S. in Physics
+description: University of California, Los Angeles
 show_downloads: false
 google_analytics: UA-131831879-1
 theme: jekyll-theme-minimal
