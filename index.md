@@ -5,7 +5,8 @@ I graduated in 2018 from the Univeristy of California, Los Angeles with a degree
 
 # Internships
 ### NASA Jet Propulsion Laboratory
-#### June 2016 - August 2016
+At the Jet Propulsion Laboratory (JPL) I was a summer research intern
+
 
 
 # Course Projects
