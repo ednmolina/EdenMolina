@@ -1,21 +1,17 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](http://www.apple.com).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # About Me
-B.S. in Physics
-University of California, Los Angeles
-# Projects
+I graduated in 2018 from the Univeristy of California, Los Angeles with a degree in Physics. I have had experience workin with large data sets, image processing, and machine learning. Outside of school I am interested in photography and interesting places to eat food. Currently I am working as a Data Science intern at a small start up called Fulcrum Labs.
 
-ext can be **bold**, _italic_, or ~~strikethrough~~.
+# Internships
+
+# Course Projects
+
+END OF THE REAL PAGE
+----------
+
+
+text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
