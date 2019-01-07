@@ -6,7 +6,7 @@ I graduated in 2018 from the Univeristy of California, Los Angeles with a degree
 # Experience
 ### NASA Jet Propulsion Laboratory
 <p align="center">
-<img src="./assets/img/JPL_logo.png" height="150"/></p>
+<img src="./assets/img/NASA_JPL.png" height="150"/></p>
 
 At the Jet Propulsion Laboratory (JPL) I worked under Jason Rhodes and Hironao Miyatake to investigate assembly bias as a function of brightest clustry galaxy (BCG) ellipticity.  The clustering of dark matter halos is enhaced by the underlying dark matter dsitribution that we do not see, this phenomena is called bias. It has been theoretically shown that bias can depend on other halo properties other than mass, this is known as assembly bias.
 
