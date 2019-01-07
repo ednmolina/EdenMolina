@@ -5,7 +5,8 @@ I graduated in 2018 from the Univeristy of California, Los Angeles with a degree
 
 # Experience TESTING
 ### NASA Jet Propulsion Laboratory
-![JPL](/assets/img/JPL_logo.png)
+<p align="center">
+ <img src="./assets/img/JPL_logo.png" height="150"/></p>
 
 At the Jet Propulsion Laboratory (JPL) I worked under Jason Rhodes and Hironao Miyatake to investigate assembly bias as a function of brightest clustry galaxy (BCG) ellipticity.  The clustering of dark matter halos is enhaced by the underlying dark matter dsitribution that we do not see, this phenomena is called bias. It has been theoretically shown that bias can depend on other halo properties other than mass, this is known as assembly bias.
 
@@ -15,7 +16,7 @@ More details about the project can be found in [this](https://drive.google.com/f
 
 ### Fulcrum Labs
 <p align="center">
-<img src="./assets/img/FulcrumLabs.png" height="200"/></p>
+<img src="./assets/img/FulcrumLabs.png" height="150"/></p>
 
 I am currently a Data Science intern for Fulcrum Labs, a start up developing an adaptive learning platform. During my first quarter at the company I devised a natural language processing (NLP) algorithm that will determine if a student's response to a question is related to a body of text they were to read. Furthermore, I prototyped an algorithm that will assign a performace score to a student given a report from an instructor about a student's behavior in class. This performance scoer and be augmented by how well they complete courses on the platform. 
 
