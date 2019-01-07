@@ -15,7 +15,7 @@ I used data 8,648 from the Sloan Digital Sky Survey (SDSS) red-sequence DR8 Matc
 More details about the project can be found in [this](https://drive.google.com/file/d/1sKP9kqtFVC72Ax0UybrYBXIOzsmCFdqK/view?usp=sharing) report I wrote summarizeing what I did that summer.
 
 ### Fulcrum Labs
-![JPL](/assets/img/FulcrumLabs.png | width="350")
+![Fulcrum](/assets/img/FulcrumLabs.png =250x250)
 I am currently a Data Science intern for Fulcrum Labs, a start up developing an adaptive learning platform. During my first quarter at the company I devised a natural language processing (NLP) algorithm that will determine if a student's response to a question is related to a body of text they were to read. Furthermore, I prototyped an algorithm that will assign a performace score to a student given a report from an instructor about a student's behavior in class. This performance scoer and be augmented by how well they complete courses on the platform. 
 
 # Research
