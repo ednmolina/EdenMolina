@@ -3,7 +3,7 @@
 # About Me
 I graduated in 2018 from the Univeristy of California, Los Angeles with a degree in Physics. I have had experience workin with large data sets, image processing, and machine learning. Outside of school I am interested in photography and interesting places to eat food. Currently I am working as a Data Science intern at a small start up called Fulcrum Labs.
 
-# Experience TESTING
+# Experience TEST
 ### NASA Jet Propulsion Laboratory
 <p align="center">
 <img src="./assets/img/JPL_logo.png" height="150"/></p>
