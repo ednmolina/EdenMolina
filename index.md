@@ -31,7 +31,7 @@ I used an MCMC to estimate the amount of light, flux, of galaxies and quasars we
 
 A research [poster](https://drive.google.com/file/d/1r2oRGAJdwo8EXGQ4lBQLHF3bH76_fRS8/view?usp=sharing) I made presenting some of my work.
 
-Furthermore, using [_lenstronomy_](https://github.com/sibirrer/lenstronomy)
+Furthermore, using [_lenstronomy_](https://github.com/sibirrer/lenstronomy), software developed by one of Professor Treu's post-doc's we raytraced the light from the quasars passing through a lensed galaxy in order to obtain enhanced images and exract more information from our images.
 
 
 # Course Projects
