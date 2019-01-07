@@ -29,7 +29,9 @@ Under Professor Tommaso Treu, his graduate students, and his post-docs we worked
 
 I used an MCMC to estimate the amount of light, flux, of galaxies and quasars we objected in the images by assuming the distribution of light emmited by the objects followed a Gaussian Distribution.
 
-A research [poster](https://drive.google.com/file/d/1r2oRGAJdwo8EXGQ4lBQLHF3bH76_fRS8/view?usp=sharing)
+A research [poster](https://drive.google.com/file/d/1r2oRGAJdwo8EXGQ4lBQLHF3bH76_fRS8/view?usp=sharing) I made presenting some of my work.
+
+Furthermore, using [_lenstronomy_](https://github.com/sibirrer/lenstronomy)
 
 
 # Course Projects
