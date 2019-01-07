@@ -11,10 +11,8 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About Me
-<p style="font-size: 18px">
-				B.S. in Electrical Engineering <br>
-				University of California, Santa Barbara <br><br>
-				<i style="font-size:18px" class="fa">&#xf041;</i>  La Mirada, CA </p>
+B.S. in Physics <br>
+University of California, Los Angeles <br>
 
 # Projects
 
