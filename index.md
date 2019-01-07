@@ -12,6 +12,8 @@ At the Jet Propulsion Laboratory (JPL) I worked under Jason Rhodes and Hironao M
 
 I used data 8,648 from the Sloan Digital Sky Survey (SDSS) red-sequence DR8 Matched-filter Probabilistic Percolaion (redMaPPer) galaxy clusters. I write Python scripts to extract statitics from the catalog of galaxies and galaxy clusters. After calculating the weak lensing and clustering signals from the data it was found that there was not evidence of assembly bias correlated with BCG ellipticity.
 
+More details about the project can be found in [this](https://drive.google.com/file/d/1sKP9kqtFVC72Ax0UybrYBXIOzsmCFdqK/view?usp=sharing) report I wrote summarizeing what I did that summer.
+
 
 # Course Projects
 
