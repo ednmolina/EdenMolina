@@ -23,7 +23,7 @@ I am currently a Data Science intern for Fulcrum Labs, a start up developing an 
 # Research
 ### UCLA Physics and Astronomy Lensed Quasar
 <p align="center">
-<img src="./assets/img/UCLA_PA_Logo.png" height="150"/></p>
+<img src="./assets/img/UCLA_PA_Logo.jpg" height="150"/></p>
 
 Under Professor Tommaso Treu, his graduate students, and his post-docs we worked on a prject that cronicled five years of follow up and confirmation lensed quasars through Keck-NIRC2, a camera at Keck Observatory. I learned how to analyze images with Python and how to run Markov Chain Monte Carlo (MCMC).
 
