@@ -1,11 +1,7 @@
 logo: /assets/img/logo.png
 
----
-title: YAML Front Matter
-description: A very simple way to add structured data to a page.
----
-<h1> {{ title }} </h1>
-<p> {{ description }} </p>
+title: EdenM
+description: This is a test description.
 
 show_downloads: false
 google_analytics_code: UA-131831879-1
