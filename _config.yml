@@ -1,8 +1,12 @@
 logo: /assets/img/logo.png
 
 title: Eden M
-description: -B.S. in Physics
--Univeristy of California, Los Angeles
+description: |+
+  This is a long string
+
+
+  with new lines
+  
 show_downloads: false
 google_analytics: UA-131831879-1
 theme: jekyll-theme-minimal
