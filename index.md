@@ -33,6 +33,10 @@ A research [poster](https://drive.google.com/file/d/1r2oRGAJdwo8EXGQ4lBQLHF3bH76
 
 Furthermore, using [_lenstronomy_](https://github.com/sibirrer/lenstronomy), software developed by one of Professor Treu's post-doc's we raytraced the light from the quasars passing through a lensed galaxy in order to obtain enhanced images and exract more information from our images.
 
+### UCLA Search for Extraterrestrial Intelligence
+<p align="center">
+<img src="./assets/img/UCLA_SETI.jpg" height="150"/></p>
+In this course small groups of students worked to improve the existing data analysis developled by previous classes. The goal of the pipline is to classifiy radiosignals from the Greenbank Telescope as technosignatures of extraterrestrial civilizations. My group wrote a script that would plot various features of a signal against one another. The various sinal features we analyze were frequency, drift rate, and signal to noise ratio. Furthermore, we also clustered our data using K-Means clustering to see if we could observe any similarities within clustered signals.
 
 # Course Projects
 
