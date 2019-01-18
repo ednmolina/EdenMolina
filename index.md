@@ -41,6 +41,8 @@ Furthermore, using [_lenstronomy_](https://github.com/sibirrer/lenstronomy), sof
 
 In this course small groups of students worked to improve the existing data analysis developled by previous classes. The goal of the pipline is to classifiy radiosignals from the Greenbank Telescope as technosignatures of extraterrestrial civilizations. My group wrote a script that would plot various features of a signal against one another. The various sinal features we analyze were frequency, drift rate, and signal to noise ratio. Furthermore, we also clustered our data using K-Means clustering to see if we could observe any similarities within clustered signals.
 
+I'm the second person from the right of the top row!
+
 # Part Time
 ### UCLA Meteorite Lab
 <p align="center">
