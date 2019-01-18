@@ -44,7 +44,7 @@ For the latter half of my undergraduate career at UCLA, I worked at the UCLA Met
 
 END OF THE REAL PAGE
 ----------
-```
+<!---
 
 text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -166,3 +166,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+--->
