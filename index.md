@@ -50,7 +50,6 @@ For the latter half of my undergraduate career at UCLA, I worked at the UCLA Met
 END OF THE REAL PAGE
 ----------
 
-
 text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
