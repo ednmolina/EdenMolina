@@ -1,7 +1,7 @@
 [Link to another page](http://www.apple.com).
 
 # About Me
-I graduated in 2018 from the Univeristy of California, Los Angeles with a B.S. in Physics. I have had experience working with large data sets, image processing, and machine learning. Outside of school I am interested in photography and interesting places to eat food. Currently I am working as a Data Science intern at a small start up called Fulcrum Labs.
+I graduated in 2018 from the Univeristy of California, Los Angeles with a B.S. in Physics. I have had experience working with large data sets, image processing, and machine learning. Outside of school I am interested in photography and interesting places to eat food. Currently I am  a Data Science intern at a start up called Fulcrum Labs.
 
 # Experience
 ### NASA Jet Propulsion Laboratory
@@ -38,7 +38,9 @@ Furthermore, using [_lenstronomy_](https://github.com/sibirrer/lenstronomy), sof
 <img src="./assets/img/UCLA_SETI.jpg" height="150"/></p>
 In this course small groups of students worked to improve the existing data analysis developled by previous classes. The goal of the pipline is to classifiy radiosignals from the Greenbank Telescope as technosignatures of extraterrestrial civilizations. My group wrote a script that would plot various features of a signal against one another. The various sinal features we analyze were frequency, drift rate, and signal to noise ratio. Furthermore, we also clustered our data using K-Means clustering to see if we could observe any similarities within clustered signals.
 
-# Course Projects
+# Part Time
+### UCLA Meteorite Lab
+For the latter half of my undergraduate career at UCLA, I worked at the UCLA Metoerite Lab as a lab assisntant. There I updated the data base of meteorite data that my boss, Professor John Wasson, has been collecting for over half a century. Other tasks I had was to prepare metoerite samples for iridiation. This involved slicing the meteorite samples at strategic locations to ensure the sample we cut won't have 'contaminants' which can range from silicate deposites or oxidation. One last repsonsibility I had while working at the lab was to photograph meteorites and museum labels for the meteorite gallery located on the third floor of the Geology Building at UCLA. I believe my photographs and labels are still in the gallery today! I highly recommend visitng it as the metoerite collection at UCLA is the fifth largest in the United States and the second largest housed at any univeristy in the world!
 
 END OF THE REAL PAGE
 ----------
