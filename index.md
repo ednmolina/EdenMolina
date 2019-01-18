@@ -3,7 +3,7 @@
 --->
 
 # About Me
-I graduated in 2018 from the Univeristy of California, Los Angeles with a B.S. in Physics. I have had experience working with large data sets, image processing, and machine learning. Outside of school I am interested in photography and interesting places to eat food. Currently I am  a Data Science intern at a start up called Fulcrum Labs.
+I graduated in 2018 from the Univeristy of California, Los Angeles with a B.S. in Physics. I have had experience working with large data sets, image processing, and machine learning. My research interests include artificial intelligence, scientific computing, and automation. Outside of school I am interested in photography and interesting places to eat food. Currently I am  a Data Science intern at a start up called Fulcrum Labs.
 
 # Experience
 ### NASA Jet Propulsion Laboratory
