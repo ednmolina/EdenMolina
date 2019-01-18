@@ -23,11 +23,11 @@ More details about the project can be found in [this](https://drive.google.com/f
 I am currently a Data Science intern for Fulcrum Labs, a start up developing an adaptive learning platform. During my first quarter at the company I devised a natural language processing (NLP) algorithm that will determine if a student's response to a question is related to a body of text they were to read. Furthermore, I prototyped an algorithm that will assign a performace score to a student given a report from an instructor about a student's behavior in class. This performance score and be augmented by how well they complete courses on the platform. 
 
 # Research
-### UCLA Physics and Astronomy Lensed Quasar
+### UCLA Physics and Astronomy
 <p align="center">
 <img src="./assets/img/UCLA_PA_Logo.jpg" height="150"/></p>
 
-Under Professor Tommaso Treu, his graduate students, and his post-docs we worked on a prject that cronicled five years of follow up and confirmation lensed quasars through Keck-NIRC2, a camera at Keck Observatory. I learned how to analyze images with Python and how to run Markov Chain Monte Carlo (MCMC).
+Under Professor Tommaso Treu, his graduate students, and his post-docs we worked on a prject that cronicled five years of follow up and confirmation lensed quasars through Keck-NIRC2, a camera at Keck Observatory. I learned how to perform image analysis with Python and how to run Markov Chain Monte Carlo (MCMC) to optimize parameters given a model attempting to describe observed data.
 
 I used an MCMC to estimate the amount of light, flux, of galaxies and quasars we objected in the images by assuming the distribution of light emmited by the objects followed a Gaussian Distribution.
 
