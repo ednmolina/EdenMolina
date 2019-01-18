@@ -1,7 +1,7 @@
 logo: "./assets/img/WebsitePhoto.jpeg"
 
 title: Eden Molina
-description: Welcome to me website! You can find my resume [here](https://drive.google.com/open?id=1ysZnG0jA6OUchx_t-27Id9MCSAs_hmSn) .
+description: Welcome to my website!
 show_downloads: false
 google_analytics_code: UA-131831879-1
 theme: jekyll-theme-minimal
